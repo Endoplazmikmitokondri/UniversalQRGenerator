@@ -6,6 +6,12 @@
 
 **Universal QR Code Generator** is an easy-to-use, open-source QR code generation tool developed for Windows. In addition to standard text, it supports special data types such as Wi-Fi, VCard, and WhatsApp.
 
+## 📸 Screenshots
+
+![Screenshot 1](docs/1.png)
+![Screenshot 2](docs/2.png)
+![Screenshot 3](docs/3.png)
+
 ## ✨ Features
 
 * **Wide Data Support:**
