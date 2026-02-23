@@ -33,17 +33,24 @@
 
 * **Fast Export:** Save generated QR codes in high-resolution PNG format.
 
-## 🚀 Installation & Usage
+🚀 Installation & Usage
+1. Installation via Setup File (Recommended)
 
-### 1. Installation via Setup File (Recommended)
+Download the latest ZIP package from the
+👉 Releases
+ section.
 
-To install the application directly on your computer, download the latest `UniversalQRGenerator_Setup.exe` file from the **Releases** section and run it. (.NET installation is not required; the application runs as self-contained.)
+After downloading:
+1.Extract the ZIP file
+2.Open the extracted folder
+3.Run UniversalQRGenerator_Setup.exe
+4.Follow the installation steps
 
+No .NET installation is required — the application runs as a self-contained executable.
 ### 2. For Developers (Build from Source)
 
 If you want to build or modify the project on your own machine:
-
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Endoplazmikmitokondri/UniversalQRGenerator.git
