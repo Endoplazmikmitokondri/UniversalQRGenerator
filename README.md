@@ -42,9 +42,13 @@ Download the latest ZIP package from the
 
 After downloading:
 1.Extract the ZIP file
+
 2.Open the extracted folder
+
 3.Run UniversalQRGenerator_Setup.exe
+
 4.Follow the installation steps
+
 
 No .NET installation is required — the application runs as a self-contained executable.
 ### 2. For Developers (Build from Source)
