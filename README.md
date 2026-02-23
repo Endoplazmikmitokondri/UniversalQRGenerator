@@ -1,6 +1,3 @@
-Evet, küçük bir Markdown format sorunu var 👍
-Başlık `##` değil, liste numaraları boşluksuz ve “Releases” link değil. Aşağıya tamamen düzeltilmiş ve düzgün hizalanmış halini bırakıyorum:
-
 ---
 
 # Universal QR Code Generator 🔳
